@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-Check out (https://mgomezandreu.github.io/personal/)[my personal website] to learn more about, what I am up to!
+
+[my personal website](https://mgomezandreu.github.io/personal/)
+Check out [my personal website](https://mgomezandreu.github.io/personal/) to learn more about, what I am up to!
 
 <!--
 **mgomezandreu/mgomezandreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
